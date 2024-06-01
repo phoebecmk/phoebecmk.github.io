@@ -1,7 +1,7 @@
 # Actuary
 
 
-###ACTUARIAL EXAMS & EDUCATION
+### ACTUARIAL EXAMS & EDUCATION
 
 Exam Passed: 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, OC1, OC2	Exam Sitting Planned: 8 (October 2024)
 University of Waterloo	Waterloo, Ontario
@@ -9,7 +9,7 @@ Bachelor of Mathematics, Statistics and Financial Analysis/Risk Management, Co-o
     • Cumulative GPA: 3.73 / 4 (with Distinction); Term Dean’s Honours List (3 terms)
     • Key Coursework: Time Series Analysis, Statistical Learning, Advanced Regression, Experimental Design
 
-###WORK EXPERIENCE
+### WORK EXPERIENCE
 Arch Reinsurance	Morristown, NJ
 Senior Actuarial Analyst, Reserving	April 2021 – Present
     • Performed pricing study on Property Catastrophe, Property Facultative, D&O and Property Per Risk to determine the appropriate loss pick for next year’s contracts, which influenced budgeting and loss reserving.
@@ -29,7 +29,7 @@ Data Analyst, Product and Analytics 	May 2019 – August 2019
     • Evaluated the impact of missing values and outdated data on predictive model in R, and recommended strategies to collect quality data to company founders with a case study on a bankrupted subcontractor.
     • Enhanced data quality by redesigning database schema using SQL to identify and remove inconsistent data.
 
-###PROJECTS, SKILLS & ACTIVITIES
+### PROJECTS, SKILLS & ACTIVITIES
 
 Projects
     • Kaggle Competition: APTOS Blindness Detection
@@ -43,8 +43,8 @@ Created a web application that estimates car insurance payout using convolutiona
     • Quantify 2019 (Link)
 Predicted insurance claim fraud with logistic regression and suggested strategies to identify fraud effectively.
 
-###Skills
+### Skills
 Excel, VBA, SQL, R, Python (Numpy, Pandas, Sci-kit learn, Keras), R Markdown, Github, PowerBI
 
-###Activities
+### Activities
 Data Science Club, Toastmasters International, Rotman Interactive Trading Competition
