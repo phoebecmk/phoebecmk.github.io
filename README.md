@@ -52,7 +52,7 @@ Segment Analyst, Asset Liability Management (ALM)
 
 ## Projects
 
-- Kaggle Competition: APTOS Blindness Detection
+- Kaggle Competition: APTOS Blindness Detection [Link](https://docs.google.com/presentation/d/1_SXT9UCoynIoseHSFAOs8HCPfcofCYBr/edit?usp=sharing&ouid=109332162778341277243&rtpof=true&sd=true)
 
 Classified level of Diabetic Retinopathy with retina images using ensemble neural network. Kappa score 89%.
 
