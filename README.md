@@ -1,7 +1,8 @@
-
+#Actuary
 
 
 ###ACTUARIAL EXAMS & EDUCATION
+
 Exam Passed: 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, OC1, OC2	Exam Sitting Planned: 8 (October 2024)
 University of Waterloo	Waterloo, Ontario
 Bachelor of Mathematics, Statistics and Financial Analysis/Risk Management, Co-op	 December 2020
@@ -29,6 +30,7 @@ Data Analyst, Product and Analytics 	May 2019 – August 2019
     • Enhanced data quality by redesigning database schema using SQL to identify and remove inconsistent data.
 
 ###PROJECTS, SKILLS & ACTIVITIES
+
 Projects
     • Kaggle Competition: APTOS Blindness Detection
 Classified level of Diabetic Retinopathy with retina images using ensemble neural network. Kappa score 89%.
@@ -40,5 +42,9 @@ Presented paper summary to professor and wrote paper critique on application of 
 Created a web application that estimates car insurance payout using convolutional neural network in Python Keras. The model takes in car images, determines the level of car damage and estimates claim payout.
     • Quantify 2019 (Link)
 Predicted insurance claim fraud with logistic regression and suggested strategies to identify fraud effectively.
-Skills	       Excel, VBA, SQL, R, Python (Numpy, Pandas, Sci-kit learn, Keras), R Markdown, Github, PowerBI
-Activities    Data Science Club, Toastmasters International, Rotman Interactive Trading Competition
+
+###Skills
+Excel, VBA, SQL, R, Python (Numpy, Pandas, Sci-kit learn, Keras), R Markdown, Github, PowerBI
+
+###Activities
+Data Science Club, Toastmasters International, Rotman Interactive Trading Competition
