@@ -1,5 +1,8 @@
-title: Phoebe Choi
+title: Phoebe Choi, ACAS
 #logo: 
-#description: text below image
+description: Actuary with background in Data Science and Finance
 #show_downloads: true
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+email: phoebe.choi.mk@gmail.com
