@@ -56,7 +56,7 @@ Segment Analyst, Asset Liability Management (ALM)
 
 Classified level of Diabetic Retinopathy with retina images using ensemble neural network. Kappa score 89%.
 
-- In-Class Kaggle Competition 2020 – Scored top 10% (https://github.com/phoebecmk/In-class-Kaggle-competition)
+- In-Class Kaggle Competition 2020 – Scored top 10% [Link](https://github.com/phoebecmk/In-class-Kaggle-competition)
 
 Predicted the likelihood for a customer to purchase from an online store using LGBM and XGBoost machine learning models in Scikit-learn, achieved 93% accuracy.
 
@@ -64,11 +64,11 @@ Predicted the likelihood for a customer to purchase from an online store using L
 
 Presented paper summary to professor and wrote paper critique on application of reinforcement learning model in the limit order book market to understand trading signals.
 
-- Hack the 6ix 2019 – Winner of Intact Insurance Challenge (https://devpost.com/software/quick-quote-bi3cf2)
+- Hack the 6ix 2019 – Winner of Intact Insurance Challenge [Link](https://devpost.com/software/quick-quote-bi3cf2)
 
 Created a web application that estimates car insurance payout using convolutional neural network in Python Keras. The model takes in car images, determines the level of car damage and estimates claim payout.
 
-- Quantify 2019 (https://drive.google.com/file/d/1LLI2rkP9UxyoH23z4WnrKEcDFnIT3AK4/view?usp=sharing)
+- Quantify 2019 [Link](https://drive.google.com/file/d/1LLI2rkP9UxyoH23z4WnrKEcDFnIT3AK4/view?usp=sharing)
 
 Predicted insurance claim fraud with logistic regression and suggested strategies to identify fraud effectively.
 
