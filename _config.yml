@@ -1,11 +1,10 @@
 title: Phoebe Choi, ACAS
 #logo: 
-description: <a href="mailto:phoebe.choi.mk@gmail.com">phoebe.choi.mk@gmail.com</a> Actuary with background in Data Science and Finance
+description: Actuary with background in Data Science and Finance
+<a href="mailto:phoebe.choi.mk@gmail.com">phoebe.choi.mk@gmail.com</a>
+<a href="https://www.linkedin.com/in/phoebecmk/" target="_blank">LinkedIn</a>
+
 #show_downloads: true
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
-
-social_links:
-linkedin: phoebecmk
-email: phoebe.choi.mk@gmail.com
