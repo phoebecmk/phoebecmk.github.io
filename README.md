@@ -7,7 +7,9 @@
 
 ## Actuarial Exams & Education
 **Exam Passed:** 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, OC1, OC2
+
 **Exam Sitting Planned:** 8 (October 2024)
+
 **University of Waterloo** | Bachelor of Mathematics, Statistics and Financial Analysis/Risk Management, Co-op | December 2020
 Cumulative GPA: 3.73 / 4 (with Distinction); Term Dean’s Honours List (3 terms)
 Key Coursework: Time Series Analysis, Statistical Learning, Advanced Regression, Experimental Design
