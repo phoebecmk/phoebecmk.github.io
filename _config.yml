@@ -5,4 +5,7 @@ description: Actuary with background in Data Science and Finance
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
+
+social_links:
+linkedin: phoebecmk
 email: phoebe.choi.mk@gmail.com
