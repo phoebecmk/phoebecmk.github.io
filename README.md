@@ -1,0 +1,44 @@
+
+
+
+###ACTUARIAL EXAMS & EDUCATION
+Exam Passed: 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, OC1, OC2	Exam Sitting Planned: 8 (October 2024)
+University of Waterloo	Waterloo, Ontario
+Bachelor of Mathematics, Statistics and Financial Analysis/Risk Management, Co-op	 December 2020
+    • Cumulative GPA: 3.73 / 4 (with Distinction); Term Dean’s Honours List (3 terms)
+    • Key Coursework: Time Series Analysis, Statistical Learning, Advanced Regression, Experimental Design
+
+###WORK EXPERIENCE
+Arch Reinsurance	Morristown, NJ
+Senior Actuarial Analyst, Reserving	April 2021 – Present
+    • Performed pricing study on Property Catastrophe, Property Facultative, D&O and Property Per Risk to determine the appropriate loss pick for next year’s contracts, which influenced budgeting and loss reserving.
+    • Led a team of 4 in the migration of Sarbanes-Oxley (SOX) process from Excel to a new internal system. Collaborated with internal audit, ensuring alignment on relevant SOX evidences and adherence to deadlines.
+    • Conducted an annual benchmark study for medical malpractice line, and selected loss development factors and trend factors by utilizing industry data and cedent submissions.
+    • Automated exhibits for the quarterly IBNR meeting using Excel-embedded Snowflake (SQL) queries, VBA, and Power BI, and continuously refined exhibits based on management feedback.
+
+Bank of Montreal	Toronto, Ontario
+Quantitative Analyst, Capital Markets	January 2020 – April 2020
+    • Automated hedge accounting documentation creation with VBA and included checks to reduce human error.
+    • Automated the calculation of daily risk exposure on the trader’s book using Flask package in Python.
+    • Researched the characteristics of green bonds, and prepared a pitch deck to convince upper management the benefits of establishing a green bond mandate.
+
+Bespoke Metrics Inc.	Toronto, Ontario
+Data Analyst, Product and Analytics 	May 2019 – August 2019
+    • Utilized K-means clustering to redefine subcontractor grouping and modeled a General Contractor’s decision-making process for assigning prequalification limits to subcontractors using decision tree in R.
+    • Evaluated the impact of missing values and outdated data on predictive model in R, and recommended strategies to collect quality data to company founders with a case study on a bankrupted subcontractor.
+    • Enhanced data quality by redesigning database schema using SQL to identify and remove inconsistent data.
+
+###PROJECTS, SKILLS & ACTIVITIES
+Projects
+    • Kaggle Competition: APTOS Blindness Detection
+Classified level of Diabetic Retinopathy with retina images using ensemble neural network. Kappa score 89%.
+    • In-Class Kaggle Competition 2020 – Scored top 10% (Link)
+Predicted the likelihood for a customer to purchase from an online store using LGBM and XGBoost machine learning models in Scikit-learn, achieved 93% accuracy.
+    • Reinforcement Learning in Finance 2020 
+Presented paper summary to professor and wrote paper critique on application of reinforcement learning model in the limit order book market to understand trading signals.
+    • Hack the 6ix 2019 – Winner of Intact Insurance Challenge (Link)
+Created a web application that estimates car insurance payout using convolutional neural network in Python Keras. The model takes in car images, determines the level of car damage and estimates claim payout.
+    • Quantify 2019 (Link)
+Predicted insurance claim fraud with logistic regression and suggested strategies to identify fraud effectively.
+Skills	       Excel, VBA, SQL, R, Python (Numpy, Pandas, Sci-kit learn, Keras), R Markdown, Github, PowerBI
+Activities    Data Science Club, Toastmasters International, Rotman Interactive Trading Competition
