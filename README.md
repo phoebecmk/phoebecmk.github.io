@@ -22,6 +22,7 @@
 ## Work Experience
 
 **Arch Reinsurance** | Morristown, NJ | April 2021 – Present
+
 Senior Actuarial Analyst, Reserving	
 - Performed pricing study on Property Catastrophe, Property Facultative, D&O and Property Per Risk to determine the appropriate loss pick for next year’s contracts, which influenced budgeting and loss reserving.
 - Led a team of 4 in the migration of Sarbanes-Oxley (SOX) process from Excel to a new internal system. Collaborated with internal audit, ensuring alignment on relevant SOX evidences and adherence to deadlines.
@@ -29,6 +30,7 @@ Senior Actuarial Analyst, Reserving
 - Automated exhibits for the quarterly IBNR meeting using Excel-embedded Snowflake (SQL) queries, VBA, and Power BI, and continuously refined exhibits based on management feedback.
 
 **Bank of Montreal** | Toronto, Ontario | January 2020 – April 2020
+
 Quantitative Analyst, Capital Markets	
 - Automated hedge accounting documentation creation with VBA and included checks to reduce human error.
 - Automated the calculation of daily risk exposure on the trader’s book using Flask package in Python.
