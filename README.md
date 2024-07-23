@@ -1,7 +1,7 @@
 # Actuary
 
 ## Skills
-- Programming Languages: Python (NumPy, Pandas, SciKit-Learn, TensorFlow, Keras, Matplotlib), R (Dplyr, Tidyr, ggplot2, randomForest), VBA, SQL, MATLAB, C, HTML, R Markdown
+- Programming Languages: Python (NumPy, Pandas, Chainladder, SciKit-Learn, TensorFlow, Keras, Matplotlib), R (Dplyr, Tidyr, ggplot2, randomForest), VBA, SQL, MATLAB, C, HTML, R Markdown
 - Databases: MySQL, Snowflake, Access
 - Tools & Methods: Github, PowerBI, Jupyter
 - Data Science: Multivariate Analysis, Machine Learning, 
