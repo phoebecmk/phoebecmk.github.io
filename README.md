@@ -7,7 +7,7 @@
 - Data Science: Multivariate Analysis, Machine Learning, 
 
 ## Actuarial Exams & Education
-**Exam Passed:** 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, OC1, OC2
+**Exam Passed:** 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, 7, OC1, OC2
 
 **Exam Sitting Planned:** 8 (October 2024)
 
