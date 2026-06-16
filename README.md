@@ -9,8 +9,6 @@
 ## Actuarial Exams & Education
 **Exam Passed:** 1/P, 2/FM, 3/IFM, MAS-I, MAS-II, 5, 6, 7, OC1, OC2
 
-**Exam Sitting Planned:** 8 (October 2024)
-
 **University of Waterloo** | Bachelor of Mathematics, Statistics and Financial Analysis/Risk Management, Co-op | December 2020
 
 - Cumulative GPA: 3.73 / 4 (with Distinction); Term Dean’s Honours List (3 terms)
@@ -21,7 +19,14 @@
 
 ## Work Experience
 
-**Arch Reinsurance** | Morristown, NJ | April 2021 – Present
+**Hamilton Reinsurance** | Pennington, NJ | January 2025 – Present
+
+Reinsurance Pricing Actuary, Pricing	
+- Compiled and validated cedent submissions to ensure completeness and consistency of data for accurate pricing
+- Priced excess of loss and quota share reinsurance accounts in US Casualty market, and determine the most suitable pricing approach based on historical data trends, exposure distribution, and underwriting insights.
+- Presented findings to underwriters, providing analytical support on risk selection, expected loss ratios, and sensitivity analysis.
+
+**Arch Reinsurance** | Morristown, NJ | April 2021 – November 2024
 
 Senior Actuarial Analyst, Reserving	
 - Performed pricing study on Property Catastrophe, Property Facultative, D&O and Property Per Risk to determine the appropriate loss pick for next year’s contracts, which influenced budgeting and loss reserving.
@@ -51,6 +56,9 @@ Segment Analyst, Asset Liability Management (ALM)
 - Projected future demand for alternative long duration assets (ALDA) in hedge accounting program, and validated the model by evaluating model inputs and explaining hardcoded numbers.
 
 ## Projects
+
+- CAS funded AI Research Project 2026: Reinsurance Workflow AI [Link](https://github.com/phoebecmk/ReinsuranceWorkflowAI)
+Trained an AI agent to compare year over year broker submission data and discover errors and omissions.
 
 - Kaggle Competition: APTOS Blindness Detection [Link](https://docs.google.com/presentation/d/1_SXT9UCoynIoseHSFAOs8HCPfcofCYBr/edit?usp=sharing&ouid=109332162778341277243&rtpof=true&sd=true)
 
