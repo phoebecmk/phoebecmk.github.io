@@ -58,6 +58,7 @@ Segment Analyst, Asset Liability Management (ALM)
 ## Projects
 
 - CAS funded AI Research Project 2026: Reinsurance Workflow AI [Link](https://github.com/phoebecmk/ReinsuranceWorkflowAI)
+
 Trained an AI agent to compare year over year broker submission data and discover errors and omissions.
 
 - Kaggle Competition: APTOS Blindness Detection [Link](https://docs.google.com/presentation/d/1_SXT9UCoynIoseHSFAOs8HCPfcofCYBr/edit?usp=sharing&ouid=109332162778341277243&rtpof=true&sd=true)
